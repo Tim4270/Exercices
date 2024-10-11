@@ -1,0 +1,8 @@
+﻿  func.cpp
+C:\Users\ttobal\Documents\Gtech2 projet\ConsoleApplication1\ConsoleApplication1\func.cpp(105,9): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\ttobal\Documents\Gtech2 projet\ConsoleApplication1\ConsoleApplication1\func.cpp(109,12): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\ttobal\Documents\Gtech2 projet\ConsoleApplication1\ConsoleApplication1\func.cpp(113,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+C:\Users\ttobal\Documents\Gtech2 projet\ConsoleApplication1\ConsoleApplication1\func.cpp(117,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+C:\Users\ttobal\Documents\Gtech2 projet\ConsoleApplication1\ConsoleApplication1\func.cpp(142,10): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\ttobal\Documents\Gtech2 projet\ConsoleApplication1\ConsoleApplication1\func.cpp(143,13): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  ConsoleApplication1.vcxproj -> C:\Users\ttobal\Documents\Gtech2 projet\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
